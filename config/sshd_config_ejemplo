@@ -1,0 +1,4 @@
+port 2222
+PermitRootLogin
+MaxAuthTries 1
+LoginGraceTime 30
